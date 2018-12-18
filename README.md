@@ -33,7 +33,12 @@ below is my addition to the view page where i've added some razor syntax with a 
 Here is the website after the added code, while the user is logged in.
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Hide%20Create%20Button%20On%20Loggin/HideButtonWebsiteAfterLoggedIn.jpg)
 
+
+
+
 **Debugging**
+
+
 Here I found that our job posting bulletin board was throwing an error.
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Debugging%20JPBulletin%20Controller/JPBulletinsDebug.jpg)
 
