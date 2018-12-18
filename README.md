@@ -51,10 +51,12 @@ I identified the error and found that it was trying to pull information from the
 Edited the analytics view to be more mobile friendly.
 
 
-Before
+-Before
+
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/making%20the%20Job%20Interface%20index%20page%20responsive%20and%20mobile%20friendly/AnalyticsViewBug.jpg)
 
-After
+-After
+
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/making%20the%20Job%20Interface%20index%20page%20responsive%20and%20mobile%20friendly/JobInterface1.jpg)
 
 
