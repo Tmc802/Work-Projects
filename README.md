@@ -64,7 +64,8 @@ Another View was having some alignment problems after some changes were made.
 here's before
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Alignment%20and%20Style%20Changes/JPnotificationsViewPic.jpg)
 
-
+A simple margin edit to the CSS did the trick
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Alignment%20and%20Style%20Changes/JPnotificationsFixedCodePic.jpg)
 
 
 
