@@ -2,7 +2,7 @@
 A repository with some examples of code i've worked on while working with Prosper IT Consulting.
 
 
-
+##Checking for user Authentication and hiding elements
 Here I was tasked with removing the create an account button when the user was logged in. I started by identifying the location of the button. Here is what the code looked like before. 
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Hide%20Create%20Button%20On%20Loggin/HideButtonCodeBefore.jpg)
@@ -20,3 +20,9 @@ below is my addition to the view page where i've added some razor syntax with a 
 
 Here is the website after the added code, while the user is logged in.
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Hide%20Create%20Button%20On%20Loggin/HideButtonWebsiteAfterLoggedIn.jpg)
+
+
+
+
+
+
