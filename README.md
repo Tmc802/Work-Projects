@@ -18,3 +18,5 @@ Here it is while i'm not logged in
 below is my addition to the view page where i've added some razor syntax with a simple if else statement that will check if the user has been authenticated. If the user has bee authenticated, the button is taken away.
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Hide%20Create%20Button%20On%20Loggin/HideButtonCodeAfter.jpg)
 
+Here is the website after the added code, while the user is logged in.
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Hide%20Create%20Button%20On%20Loggin/HideButtonWebsiteAfterLoggedIn.jpg)
