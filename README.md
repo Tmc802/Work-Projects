@@ -81,7 +81,7 @@ I found an unnessecary function of some of the javascript that caused the mailto
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Email%20Functionality/emailFunctionalityWebsiteBefore.jpg)
 
-The code worked properly but had unwanted additions.
+The code worked properly but had unwanted additional features.
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Email%20Functionality/emailFunctionalityCodeBefore.jpg)
 
