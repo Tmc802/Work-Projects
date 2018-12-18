@@ -52,10 +52,13 @@ Edited the analytics view to be more mobile friendly.
 
 
 -Before
+The jumbotron title was flying out of the box
+
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/making%20the%20Job%20Interface%20index%20page%20responsive%20and%20mobile%20friendly/AnalyticsViewBug.jpg)
 
 -After
+position abosolute was causing the problem so fixed some of the html and css to contain the element
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/making%20the%20Job%20Interface%20index%20page%20responsive%20and%20mobile%20friendly/JobInterface1.jpg)
 
