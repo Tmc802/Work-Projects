@@ -1,5 +1,5 @@
 # Work-Projects
-A repository with some examples of code i've worked on while working with Prosper IT Consulting.
+A repository with some examples of code that I worked on in various projects.
 
 -User Authentication
 
@@ -44,6 +44,35 @@ Here I found that our job posting bulletin board was throwing an error.
 
 I identified the error and found that it was trying to pull information from the wrong controller
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Debugging%20JPBulletin%20Controller/JPBulletinDebugFix.jpg)
+
+
+**Front End**
+
+Edited the analytics view to be more mobile friendly.
+
+
+-Before
+The jumbotron title was flying out of the box
+
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/making%20the%20Job%20Interface%20index%20page%20responsive%20and%20mobile%20friendly/AnalyticsViewBug.jpg)
+
+-After
+position abosolute was causing the problem so fixed some of the html and css to contain the element
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/making%20the%20Job%20Interface%20index%20page%20responsive%20and%20mobile%20friendly/JobInterface1.jpg)
+
+
+Another View was having some alignment problems after some changes were made.
+here's before
+
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Alignment%20and%20Style%20Changes/JPnotificationsViewPic.jpg)
+
+A simple margin edit to the CSS did the trick
+
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Alignment%20and%20Style%20Changes/JPnotificationsFixedCodePic.jpg)
 
 
 
