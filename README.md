@@ -89,7 +89,11 @@ I found that adding a _parent function to the javascript code fixed the problem
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Email%20Functionality/emailFunctionalityCodeAfter.jpg)
 
 
-** SQL DATABASE**
+
+
+
+
+**SQL DATABASE**
 
 Found double entries in the Database for our Job placement interface so I was tasked with cleaning up the database.
 
@@ -118,6 +122,7 @@ To work around this I had to make 2 query statements in sequence. One targeting 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseContraintWorkaround.jpg)
 
 Here is my full query code to target duplicates in my database
+
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseManagementQuery.jpg)
 
 
