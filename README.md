@@ -9,7 +9,7 @@ A repository with some examples of code that I worked on in various projects.
 
 -Email Functionality
 
-
+-SQL Database fixes
 
 
 
@@ -51,8 +51,7 @@ I identified the error and found that it was trying to pull information from the
 Edited the analytics view to be more mobile friendly.
 
 
--Before
-The jumbotron title was flying out of the box
+-BeforeThe jumbotron title was flying out of the box
 
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/making%20the%20Job%20Interface%20index%20page%20responsive%20and%20mobile%20friendly/AnalyticsViewBug.jpg)
@@ -88,4 +87,38 @@ The code worked properly but had unwanted additional features.
 I found that adding a _parent function to the javascript code fixed the problem
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Email%20Functionality/emailFunctionalityCodeAfter.jpg)
+
+
+** SQL DATABASE**
+
+Found double entries in the Database for our Job placement interface so I was tasked with cleaning up the database.
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/JPStudentsTablePic.jpg)
+
+I started out by openning SQL server and querying for all the duplicates in the table. This query gave me a count of how many duplicates there was in the table.
+
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseDuplicateQueryPic.jpg)
+
+I then organized the table data by row numbers and the matching JPName columns
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseQueryCode.jpg)
+
+I had tried to delete the matching inforation by row number
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseQueryAttemptCode.jpg
+)
+
+I then recived an error due to contraint issues with a refrence to another table 
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseContraintError.jpg)
+
+To work around this I had to make 2 query statements in sequence. One targeting the refrenced table and the other targerting the row from the original table I was targeting. 
+
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseContraintWorkaround.jpg)
+
+Here is my full query code to target duplicates in my database
+![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseManagementQuery.jpg)
+
+
 
