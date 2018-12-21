@@ -36,7 +36,7 @@ Here is the website after the added code, while the user is logged in.
 
 
 
-**Debugging**
+# **Debugging**
 
 
 Here I found that our job posting bulletin board was throwing an error.
@@ -46,7 +46,7 @@ I identified the error and found that it was trying to pull information from the
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Debugging%20JPBulletin%20Controller/JPBulletinDebugFix.jpg)
 
 
-**Front End**
+# **Front End**
 
 Edited the analytics view to be more mobile friendly.
 
@@ -93,7 +93,7 @@ I found that adding a _parent function to the javascript code fixed the problem
 
 
 
-**SQL DATABASE**
+# **SQL DATABASE**
 
 Found double entries in the Database for our Job placement interface so I was tasked with cleaning up the database.
 
