@@ -73,7 +73,7 @@ A simple margin edit to the CSS did the trick
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Alignment%20and%20Style%20Changes/JPnotificationsFixedCodePic.jpg)
 
-**Email Functionality**
+# **Email Functionality**
 
 I found an unnessecary function of some of the javascript that caused the mailto function to open a new window when the email student button was clicked. It would cause a new window to open populated by all the email addresses of the students.
 
