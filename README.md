@@ -1,15 +1,15 @@
 # Work-Projects
 A repository with some examples of code that I worked on in various projects.
 
--User Authentication
+#### -User Authentication
 
--Debugging
+#### -Debugging
 
--Front End
+#### -Front End
 
--Email Functionality
+#### -Email Functionality
 
--SQL Database fixes
+#### -SQL Database fixes
 
 
 
