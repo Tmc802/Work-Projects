@@ -5,15 +5,15 @@ A repository with some examples of code that I worked on in various projects.
 
 #### -[Debugging](#2)
 
-#### -Front End(#3)
+#### -[Front End](#3)
 
-#### -Email Functionality(#4)
+#### -[Email Functionality](#4)
 
-#### -SQL Database fixes(#5)
+#### -[SQL Database fixes](#5)
 
 
 
-# **Checking for user Authentication and hiding elements**[#1]
+# **[Checking for user Authentication and hiding elements]**[1]
 
 Here I was tasked with removing the create an account button when the user was logged in. I started by identifying the location of the button. Here is what the code looked like before. 
 
