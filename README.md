@@ -1,7 +1,7 @@
 # Work-Projects
 A repository with some examples of code that I worked on in various projects.
 
-#### -[User Authentication][1]
+#### -[User Authentication](#user authentication)
 
 #### -Debugging
 
