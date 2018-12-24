@@ -3,13 +3,13 @@ A repository with some examples of code that I worked on in various projects.
 
 #### -[User Authentication](#User-Authentication)
 
-#### -[Debugging](#2)
+#### -[Debugging](#Debugging)
 
-#### -[Front End](#3)
+#### -[Front End](#Front-End)
 
-#### -[Email Functionality](#4)
+#### -[Email Functionality](#Email-Functionality)
 
-#### -[SQL Database fixes](#5)
+#### -[SQL Database fixes](#SQL-Database)
 
 
 
