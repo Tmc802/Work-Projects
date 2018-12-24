@@ -33,7 +33,7 @@ below is my addition to the view page where i've added some razor syntax with a 
 Here is the website after the added code, while the user is logged in.
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Hide%20Create%20Button%20On%20Loggin/HideButtonWebsiteAfterLoggedIn.jpg)
 
-
+[Back To Top](#Work-Projects)
 
 
 # **Debugging**
@@ -45,6 +45,7 @@ Here I found that our job posting bulletin board was throwing an error.
 I identified the error and found that it was trying to pull information from the wrong controller
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Debugging%20JPBulletin%20Controller/JPBulletinDebugFix.jpg)
 
+[Back To Top](#Work-Projects)
 
 # **Front End**
 
@@ -73,6 +74,8 @@ A simple margin edit to the CSS did the trick
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Alignment%20and%20Style%20Changes/JPnotificationsFixedCodePic.jpg)
 
+[Back To Top](#Work-Projects)
+
 # **Email Functionality**
 
 I found an unnessecary function of some of the javascript that caused the mailto function to open a new window when the email student button was clicked. It would cause a new window to open populated by all the email addresses of the students.
@@ -89,7 +92,7 @@ I found that adding a _parent function to the javascript code fixed the problem
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Email%20Functionality/emailFunctionalityCodeAfter.jpg)
 
 
-
+[Back To Top](#Work-Projects)
 
 
 
@@ -120,6 +123,11 @@ I then recived an error due to contraint issues with a refrence to another table
 To work around this I had to make 2 query statements in sequence. One targeting the refrenced table and the other targerting the row from the original table I was targeting. 
 
 ![alt text](https://github.com/Tmc802/Work-Projects/blob/master/Project%20screen%20shots/Database%20Management/DatabaseContraintWorkaround.jpg)
+
+
+[Back To Top](#Work-Projects)
+
+
 
 Here is my full query code to target duplicates in my database
 
